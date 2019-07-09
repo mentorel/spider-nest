@@ -1,2 +1,2 @@
 # spider-nest
-Carrier board for Mentorel Spider SOM
+Schematic for the carrier board for Mentorel Spider SOM
